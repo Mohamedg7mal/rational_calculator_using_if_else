@@ -2,12 +2,10 @@
 // Program Name : Rational Number Calculator 
 // Program Description : this program calculate the rational number only ....if you want to calculate rational number enter numbers in form a b c d 
 // Last Modification : 21/3/2003
-// Habiba Ehab            Group A 
-// Shrouk                 Gruop A 
-// Mohamed Gamal 20211080 Group A
-// Teaching Assistant : 
-// Purpose : 
-*/
+// Author and Id and Group : Mohamed Gamal 20211080 Group A
+// Teaching Assistant : Dr. Mohamed El Ramly
+ 
+
 
 
 
